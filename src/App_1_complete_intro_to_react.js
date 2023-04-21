@@ -1,3 +1,5 @@
+// following this - https://jscomplete.com/learn/complete-intro-react
+
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import React from "react";
